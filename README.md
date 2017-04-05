@@ -5,6 +5,17 @@ Memes communicate ideas and/or behavior that spread throughout a culture. Images
 
 For people with avid interest in memes and those who casually view them, there is currently a disconnect of information between memes and their value. There are no formal definitions for what makes a meme popular, how a meme goes viral, or how original a meme is. Lastly, meme culture is constantly changing and it can be hard to keep up with the changing definitions and trends.
 
+## Problem to Solve 
+- Meme culture is ubiquitous. The culture around them changes very quickly and it is hard to keep up.   
+- Target audience: People involved with meme culture (e.g., college students, meme creators, meme enthusiasts)
+- Potentially businesses who want to monetize memes
+- Underlying Problems:
+  - Making sure a meme is “fresh”
+  - Hard to filter the massive amount of content
+  - Understanding meme meanings
+  - Understanding why means are popular (current events)
+
+
 ## Roles
 Alex: Engineering and Support
 
